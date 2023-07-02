@@ -1,0 +1,64 @@
+1,RUS,Daniil Medvedev
+2,GER,Alexander Zverev
+3,SRB,Novak Djokovic
+4,ESP,Rafael Nadal
+5,GRE,Stefanos Tsitsipas
+6,NOR,Casper Ruud
+7,ESP,Carlos Alcaraz
+8,RUS,Andrey Rublev
+9,CAN,Felix Auger-Aliassime
+10,POL,Hubert Hurkacz
+11,ITA,Matteo Berrettini
+12,GBR,Cameron Norrie
+13,ITA,Jannik Sinner
+14,USA,Taylor Fritz
+15,ARG,Diego Schwartzman
+16,CAN,Denis Shapovalov
+17,CRO,Marin Cilic
+18,USA,Reilly Opelka
+19,ESP,Roberto Bautista Agut
+20,ESP,Pablo Carreno Busta
+21,BUL,Grigor Dimitrov
+22,RUS,Karen Khachanov
+23,FRA,Gael Monfils
+24,USA,John Isner
+25,NED,Botic van de Zandschulp
+26,GEO,Nikoloz Basilashvili
+27,AUS,Alex de Minaur
+28,USA,Frances Tiafoe
+29,DEN,Holger Rune
+30,SRB,Miomir Kecmanovic
+31,SRB,Filip Krajinovic
+32,USA,Tommy Paul
+33,GBR,Daniel Evans
+34,USA,Jenson Brooksby
+35,ARG,Sebastian Baez
+36,GER,Oscar Otte
+37,ESP,Alejandro Davidovich Fokina
+38,KAZ,Alexander Bublik
+39,ESP,Albert Ramos-Vinolas
+40,AUS,Nick Kyrgios
+41,ARG,Francisco Cerundolo
+42,RUS,Aslan Karatsev
+43,CHI,Cristian Garin
+44,BLR,Ilya Ivashka
+45,USA,Maxime Cressy
+46,USA,Sebastian Korda
+47,FRA,Benjamin Bonzi
+48,RSA,Lloyd Harris
+49,FIN,Emil Ruusuvuori
+50,ESP,Pedro Martinez
+51,SVK,Alex Molcan
+52,GBR,Andy Murray
+53,NED,Tallon Griekspoor
+54,ITA,Lorenzo Sonego
+55,USA,Mackenzie McDonald
+56,USA,Brandon Nakashima
+57,SRB,Laslo Djere
+58,BEL,David Goffin
+59,HUN,Marton Fucsovics
+60,POR,Joao Sousa
+61,GER,Daniel Altmaier
+62,FRA,Arthur Rinderknech
+63,ITA,Fabio Fognini
+64,SRB,Dusan Lajovic
